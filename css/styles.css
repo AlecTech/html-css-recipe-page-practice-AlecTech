@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p{
+    color: gray;
+}
+.red{
+    background-color: indianred;
+}
+footer {
+    background-color: hotpink;
+}
+header {
+    background-color: orangered;
+}
